@@ -1,0 +1,37 @@
+
+
+.heading1{
+	text-align: center;
+	font-size: 80px;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: bold;
+	padding: 0px
+	margin: 0px; 
+	margin-top: 30px;
+}
+.heading2{
+	text-align: center;
+	font-size: 30px;
+	font-family:'Titillium Web', sans-serif;
+	font-weight: bold;
+	color: white;
+	background: black;
+	
+}
+.row{
+	margin: 0px;
+	padding: 0px;
+	}
+
+.box{
+	padding:0px;
+	border: 2px solid #d3d3d3;
+/*	opacity: 0.7;	*/
+	}
+		
+#img1:hover,#img2:hover,#img3:hover,#img4:hover,#img5:hover,#img6:hover,#img7:hover,#img8:hover,#img9:hover,#img10:hover,#img11:hover,#img12:hover {
+	cursor: pointer;
+	border: double black;
+/*	opacity:1;	*/
+			
+	}
